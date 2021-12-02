@@ -6,9 +6,21 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - README.md
+  - INDEX.md
+  - BONK.md
+  - staff-list.md
+  - jane.md
+  - jeff.md
+  - bank.md
+  - cram.md
+  - poem1.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+collections:
+  staff_members:
+    output: true
