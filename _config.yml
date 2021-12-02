@@ -22,9 +22,9 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 
-#collections:
- # staff_members:
-  #  output: true
+collections:
+  staff_members:
+    output: true
     
 
 
